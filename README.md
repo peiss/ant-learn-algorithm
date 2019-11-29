@@ -13,7 +13,9 @@ https://www.anaconda.com/
 在里面输入：jupyter notebook
 就能打开Python网页版执行器，可以play这个代码了
 
-## 欢迎关注我的微信公众号，会持续分享Python基础、算法、数据分析、大数据处理、机器学习、推荐系统等领域的干货
+## 欢迎关注我的微信公众号
+
+公众号会持续分享Python基础、算法、数据分析、大数据处理、机器学习、推荐系统等领域的干货
 
 <img src="./weixin_gzh_erweima.jpg" />
 
